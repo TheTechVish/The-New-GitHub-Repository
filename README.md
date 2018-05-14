@@ -1,23 +1,22 @@
-# Book name
+# Mastering Ubuntu Server – Second Edition
 
-**<a href="UTM URL of the Book"><img src="Cover URL" alt="Book Name" height="256px" align="right"></a>**
+<a href="https://www.packtpub.com/networking-and-servers/mastering-ubuntu-server-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788997560"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10288_MockupCover.png" alt="Mastering Ubuntu Server – Second Edition" height="256px" align="right"></a>
 
-**This is the code repository for [Book name](UTM URL), published by Packt.**
+This is the code repository for [Mastering Ubuntu Server – Second Edition](https://www.packtpub.com/networking-and-servers/mastering-ubuntu-server-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788997560), published by Packt.
 
-**Subtitle**
+**Master the art of installing, configuring, managing, and troubleshooting Ubuntu Server 18.04**
 
 ## What is this book about?
-Copy and paste first paragraph of long discription.
+Ubuntu is a Debian-based Linux operating system, and has various versions targeted at servers, desktops, phones, tablets and televisions. The Ubuntu Server Edition, also called Ubuntu Server, offers support for several common configurations, and also simplifies common Linux server deployment processes. Ubuntu has also been featured as choice of operating system for Internet of Things configuration as well.
 
-This book covers the following exciting features: (Copy and paste first 5 What You Will Learn bullet points)
-* Understand the rationality behind data structures and algorithms
-* Understand computation evaluation of a program featuring asymptotic and empirical algorithm analysis
-* Get to know the fundamentals of arrays and linked-based data structures
-* Analyze types of sorting algorithms
-* Search algorithms along with hashing
+This book covers the following exciting features:
+* Learn how to manage users, groups, and permissions
+* Encrypt and decrypt disks with Linux Unified Key Setup /Luks
+* Setup SSH for remote access, and connect it to other nodes
+* Understand how to add, remove, and search for packages
+* Use NFS and Samba to share directories with other users
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/10 digit ISBN) today!
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1786465159) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788997565) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/VishalMewadaPackt/Pictures-Repo/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -26,10 +25,10 @@ alt="https://www.packtpub.com/" border="5" /></a>
 
 ![Amazon reviews](https://github.com/PacktPublishing/R-Data-Structures-and-Algorithms/blob/master/Amazon.png)
 
-You can purchase this book at Amazon, [Book name](https://www.amazon.com/dp/10 digit ISBN).
+You can purchase this book at Amazon, [Mastering Ubuntu Server – Second Edition](https://www.amazon.com/dp/1788997565).
 
 ## Instructions and Navigations
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
@@ -39,11 +38,9 @@ if (test expression)
 }
 ```
 **Following is what you need for this book**
-You will need a good understanding of R or another programming language. Preliminary experience of programming and data analysis will be helpful as well. You will need to appreciate algorithms that can be applied in scale to build applications.
+This book is intended for readers with intermediate or beginner skills with Linux, who would like to learn all about setting up servers with Ubuntu Server. This book assumes that the reader knows the basics of Linux, such as editing configuration files and running basic commands.
 
-Package in R can be installed using install.packages(“Package-name”)
-
-With the following software and hardware list you can run all code files present in the book (Chapter 1-10)
+With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
 
 ### Software and Hardware List
 
@@ -65,13 +62,13 @@ With the following software and hardware list you can run all code files present
 | 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
 | 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
 
-**If your book contains graphics bundle, then add the following statement and make the changes in the URL section:**
-**We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/RDataStructuresandAlgorithms_ColorImages.pdf).**
+
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/MasteringUbuntuServerSecond Edition_ColorImages.pdf).
 
 ### Related products (Other books you may enjoy)
-* R for Data Science [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/r-data-science?utm_source=Github&utm_medium=Repository&utm_campaign=9781784390860) [[Amazon]](https://www.amazon.com/dp/1784390860)
+* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
-* R Graph Essentials [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/r-graph-essentials?utm_source=Github&utm_medium=Repository&utm_campaign=9781783554553) [[Amazon]](https://www.amazon.com/dp/178355455X)
+* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
 
 ## Get to Know the Authors
 **Dr. PKS Prakash**
@@ -82,7 +79,8 @@ Achyutuni Sri Krishna Rao is a data scientist, a civil engineer, and an author. 
 
 
 ## Other books by the authors
-* [R Deep Learning Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-cookbook)
+* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
+* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
