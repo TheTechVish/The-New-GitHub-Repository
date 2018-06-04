@@ -1,6 +1,6 @@
 # Mastering Ubuntu Server – Second Edition
 
-<a href="https://www.packtpub.com/networking-and-servers/mastering-ubuntu-server-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788997560"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10288_MockupCover.png" alt="Mastering Ubuntu Server – Second Edition" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/networking-and-servers/mastering-ubuntu-server-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788997560"><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10288.png" alt="Mastering Ubuntu Server – Second Edition" height="256px" align="right"></a>
 
 This is the code repository for [Mastering Ubuntu Server – Second Edition](https://www.packtpub.com/networking-and-servers/mastering-ubuntu-server-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788997560), published by Packt.
 
